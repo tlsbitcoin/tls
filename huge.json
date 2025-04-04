@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743680412925/f0404a.txt",
+  "spider": "./jar/fty.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -304,7 +304,7 @@
       "name": "🦢天天┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar",
+      "jar": "./jar/xm.jar",
       "api": "csp_AppRJGuard",
       "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
@@ -313,7 +313,7 @@
       "name": "🏆悠悠┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar",
+      "jar": "./jar/xm.jar",
       "api": "csp_AppYoYoGuard",
       "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyJw41aUl2TMF+qakB/2SvSF1SywokogMA+eafsTjEwpMnjioYuZ3uAodRzi6b9JRGt/qZkfVS+3YsQmfAQuHaJtqS2wzVicWNabggtAUtATM1uW8wyQOAJwp8YQlLp1CaU1IoFu/lvb6RN6pbaZ82+7ujInKS9UYz01vd68K3JRCGtQvW8dpfu4Grd0IGxl6oo5YUOaKClXJr6NG4MizWXxk4T8TuH7P49u1clps+VY9FQhdsAb3iNo0TGTIdbGaU="
     },
@@ -322,7 +322,7 @@
       "name": "👨农民┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar",
+      "jar": "./jar/xm.jar",
       "api": "csp_WwysGuard",
       "ext": "https://www.wwgz.cn"
     },
@@ -331,7 +331,7 @@
       "name": "🌟云端┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar",
+      "jar": "./jar/xm.jar",
       "api": "csp_AppGetGuard",
       "ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE="
     },
@@ -340,7 +340,7 @@
       "name": "🛹番剧┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar",
+      "jar": "./jar/xm.jar",
       "api": "csp_AppGetGuard",
       "ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="
     },
@@ -349,7 +349,7 @@
       "name": "🎬电影┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar",
+      "jar": "./jar/xm.jar",
       "api": "csp_AppGetGuard",
       "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgUMrJ+kztENaDom6MWpmmvbZdw38U+pT14qEwywuRW7eny/HInm+UXxpCyI8e5D7Y4kc2n0QBkeQ2Tk5Y0atLMuupC2ZGF68+oMVeX0Px9e9ODSiSspzQH/Rg1Sz5CHp0GKozVTjPIZHhO159i7A1HwZ+kk77Eh0E7AnBTt6qVBX5G+murD+CKjMLYo6MMmsE"
     },
@@ -358,7 +358,7 @@
       "name": "🔥火火┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar",
+      "jar": "./jar/xm.jar",
       "api": "csp_SaoHuoGuard"
     },
     {
@@ -366,7 +366,7 @@
       "name": "🍉瓜子┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar",
+      "jar": "./jar/xm.jar",
       "api": "csp_Gz360Guard"
     },
     {
@@ -374,7 +374,7 @@
       "name": "🥇金牌┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar",
+      "jar": "./jar/xm.jar",
       "api": "csp_JpysGuard"
     },
     {
@@ -382,7 +382,7 @@
       "name": "💐来看┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar",
+      "jar": "./jar/xm.jar",
       "api": "csp_LkdyGuard"
     },
 
@@ -390,7 +390,7 @@
       "key": "csp_xlys",
       "name": "🧲修罗",
       "type": 3,
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "api": "csp_xlys",
       "searchable": 1,
       "quickSearch": 1,
@@ -401,7 +401,7 @@
       "key": "csp_Mp4Mov",
       "name": "🧲Mp4电影",
       "type": 3,
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "api": "csp_Mp4Mov",
       "searchable": 1,
       "quickSearch": 1,
@@ -412,7 +412,7 @@
       "key": "csp_New6v",
       "name": "🧲新6V",
       "type": 3,
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "api": "csp_New6v",
       "searchable": 1,
       "quickSearch": 1,
@@ -422,7 +422,7 @@
       "key": "csp_DyGod",
       "name": "🧲电影天堂",
       "type": 3,
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "api": "csp_DyGod",
       "searchable": 1,
       "quickSearch": 1,
@@ -432,7 +432,7 @@
       "key": "csp_QnMp4",
       "name": "🧲七妹",
       "type": 3,
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "api": "csp_QnMp4",
       "searchable": 1,
       "quickSearch": 1,
@@ -442,7 +442,7 @@
       "key": "csp_SeedHub",
       "name": "🧲SeedHub",
       "type": 3,
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "api": "csp_SeedHub",
       "searchable": 1,
       "quickSearch": 1,
@@ -452,7 +452,7 @@
       "key": "csp_MeijuTT",
       "name": "🧲美剧天堂",
       "type": 3,
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "api": "csp_MeijuTT",
       "searchable": 1,
       "quickSearch": 1,
@@ -462,7 +462,7 @@
       "key": "csp_MeijuMi",
       "name": "🧲美剧迷",
       "type": 3,
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "api": "csp_MeijuMi",
       "searchable": 1,
       "quickSearch": 1,
@@ -472,7 +472,7 @@
       "key": "csp_BLSGod",
       "name": "🧲80S影视",
       "type": 3,
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "api": "csp_BLSGod",
       "searchable": 1,
       "quickSearch": 1,
