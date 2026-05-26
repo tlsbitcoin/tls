@@ -87,13 +87,26 @@ body {
     -webkit-tap-highlight-color: transparent;
 }
 
+#mytitle {
+    font-size: 1rem;
+    /* font-weight: bold; */
+    line-height: 1.25;
+    display: block;
+    color: var(--accentColor);
+    margin: 20px auto 20px;
+    /* font-family: var(--font); */
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
 .category {
     color: var(--accentColor);
     font-size: 1rem;
     font-weight: bold;
     line-height: 1.25;
     display: block;
-    font-family: var(--font);
+    /* font-family: var(--font); */
     width: 100%;
     text-align: center;
     text-decoration: none;
@@ -142,7 +155,7 @@ body {
     color: var(--accentColor);
     font-size: 1rem;
     display: block;
-    font-family: var(--font);
+    /* font-family: var(--font); */
     width: 100%;
     text-align: center;
 
